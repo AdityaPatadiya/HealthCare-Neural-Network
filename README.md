@@ -61,6 +61,3 @@ More information about the scripts and custom data is available in the
 - Yousefi et al., [Learning Genomic Representations to Predict Clinical Outcomes in Cancer](https://arxiv.org/abs/1609.08663) (2016)
 - Yousefi et al., [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://doi.org/10.1038/s41598-017-11817-6) (2017)
 
-## License
-
-This project is available under the [MIT License](LICENSE).
